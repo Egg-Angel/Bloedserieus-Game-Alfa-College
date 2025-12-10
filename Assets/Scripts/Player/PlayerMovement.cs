@@ -1,41 +1,43 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlayerMovement : MonoBehaviour
 {
 
-    [SerializeField] private float _moveSpeed = 5f;
+    [SerializeField] private float moveSpeed = 5f;
+    private Rigidbody2D rb;
+    private Vector2 moveInput;
+    private Animator animator;
 
-    private Vector2 _movement;
-
-    private Rigidbody2D _rb;
-    private Animator _animator;
-
-    private const string _horizontal = "Horizontal";
-    private const string _vertical = "Vertical";
-    private const string _LastHorizontal = "LastHorizontal";
-    private const string _LastVertical = "LastVertical";
-
-
-    private void Awake()
+    private const string horizontal = "Horizontal";
+    private const string vertical = "Vertical";
+    private const string lastHorizontal = "LastHorizontal";
+    private const string lastVertical = "LastVertical";
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
     {
-        _rb = GetComponent<Rigidbody2D>();
-        _animator = GetComponent<Animator>();
+        rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
-    private void Update()
+    // Update is called once per frame
+    void Update()
     {
-        _movement.Set(InputManager.Movement.x, InputManager.Movement.y);
+        rb.linearVelocity = moveInput * moveSpeed;
 
-        _rb.linearVelocity = _movement * _moveSpeed;
+        animator.SetFloat(horizontal, moveInput.x);
+        animator.SetFloat(vertical, moveInput.y);
 
-        _animator.SetFloat(_horizontal, _movement.x);
-        _animator.SetFloat(_vertical, _movement.y);
-
-        if (_movement != Vector2.zero)
+        if (moveInput != Vector2.zero)
         {
-            _animator.SetFloat(_LastHorizontal, _movement.x);
-            _animator.SetFloat(_LastVertical, _movement.y);
+            animator.SetFloat(lastHorizontal, moveInput.x);
+            animator.SetFloat(lastVertical, moveInput.y);
         }
     }
 
+    public void Move(InputAction.CallbackContext context)
+    {
+        
+        moveInput = context.ReadValue<Vector2>();
+    }
 }
