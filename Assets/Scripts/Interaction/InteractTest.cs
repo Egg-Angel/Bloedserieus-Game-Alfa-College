@@ -10,5 +10,9 @@ public class InteractTest : MonoBehaviour, IInteractable
         Debug.Log("please work");
     }
 
+    public bool CanInteract()
+    {
+        throw new System.NotImplementedException();
+    }
 
 }

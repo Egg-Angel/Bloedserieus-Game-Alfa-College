@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d34f581731e32642a5b379195fa3876, type: 3}
+  m_Name: Void is here!
+  m_EditorClassIdentifier: 
+  npcName: Void
+  npcPortrait: {fileID: 6812917503692831782, guid: 33e37cc8076a9c64ba6ed00d0bfe9733, type: 3}
+  dialogueLines:
+  - I don't think im supossed to be here?
+  - Well... if it's just to see if what you've made works, I guess i'll stick around
+    for a bit.
+  autoProgressLines: 0100
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voiceSound: {fileID: 8300000, guid: 2e060db8d95a7db4b9c4fc2169d3ff3b, type: 3}
+  voicePitch: 1
