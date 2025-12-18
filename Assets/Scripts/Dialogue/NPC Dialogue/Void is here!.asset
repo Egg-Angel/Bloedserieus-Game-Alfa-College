@@ -18,7 +18,7 @@ MonoBehaviour:
   - I don't think im supossed to be here?
   - Well... if it's just to see if what you've made works, I guess i'll stick around
     for a bit.
-  autoProgressLines: 0100
+  autoProgressLines: 0000
   autoProgressDelay: 1.5
   typingSpeed: 0.05
   voiceSound: {fileID: 8300000, guid: 2e060db8d95a7db4b9c4fc2169d3ff3b, type: 3}

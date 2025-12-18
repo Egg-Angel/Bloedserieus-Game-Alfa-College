@@ -16,7 +16,8 @@ MonoBehaviour:
   npcPortrait: {fileID: -693501076498484860, guid: 8477923770314ad44aeb4f331b19f89c, type: 3}
   dialogueLines:
   - Hallo Nikki!
-  - Leuk dat jij er ook bent!
+  - Leuk dat je er bent!
+  - Ga snel terug naar je stoel, dan kunnen we met de les beginnen
   autoProgressLines: 
   autoProgressDelay: 1.5
   typingSpeed: 0.05

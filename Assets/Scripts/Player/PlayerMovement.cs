@@ -31,7 +31,7 @@ public class PlayerMovement : MonoBehaviour
             return;
         }
         rb.linearVelocity = moveInput * moveSpeed;
-        Debug.Log(moveInput);
+        //Debug.Log(moveInput);
 
         animator.SetFloat(horizontal, moveInput.x);
         animator.SetFloat(vertical, moveInput.y);
