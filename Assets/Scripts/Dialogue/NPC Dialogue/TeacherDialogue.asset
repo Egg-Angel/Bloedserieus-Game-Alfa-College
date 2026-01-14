@@ -17,9 +17,20 @@ MonoBehaviour:
   dialogueLines:
   - Hallo Nikki!
   - Leuk dat je er bent!
-  - Ga snel terug naar je stoel, dan kunnen we met de les beginnen
+  - Heb je een vraag?
+  - Wat is er?
+  - Kan ik je ergens mee helpen?
+  - Ga dan maar snel zitten
+  - De les gaat zo beginnen
   autoProgressLines: 
+  endDialogueLines: 00000000010001
   autoProgressDelay: 1.5
   typingSpeed: 0.05
   voiceSound: {fileID: 0}
   voicePitch: 1
+  choices:
+  - dialogueIndex: 2
+    choices:
+    - Ja
+    - Nee
+    nextDialogueIndexes: 0300000005000000
