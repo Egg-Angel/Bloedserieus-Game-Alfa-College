@@ -34,10 +34,4 @@ public class PeriodBoxGame : MonoBehaviour, IInteractable
         periodGameUI.ShowPeriodGameUI(true);
     }
 
-
-    public void EndDialogue()
-    {
-        isPeriodboxActive = false;
-        periodGameUI.ShowPeriodGameUI(false);
-    }
 }

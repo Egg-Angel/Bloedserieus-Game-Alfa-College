@@ -56,5 +56,4 @@ public class DialogueController : MonoBehaviour
         choiceButton.GetComponent<Button>().onClick.AddListener(onClick);
         return choiceButton;
     }
-
 }

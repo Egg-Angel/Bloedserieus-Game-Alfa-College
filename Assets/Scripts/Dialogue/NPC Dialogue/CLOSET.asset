@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d34f581731e32642a5b379195fa3876, type: 3}
   m_Name: CLOSET
   m_EditorClassIdentifier: 
-  npcName: CLOSET
+  npcName: Meisje op wc
   npcPortrait: {fileID: 0}
   dialogueLines:
-  - NUH UH
+  - Nee, dit bedoel ik niet. Ik zei maandverband.
   autoProgressLines: 01
   endDialogueLines: 
   autoProgressDelay: 1.5

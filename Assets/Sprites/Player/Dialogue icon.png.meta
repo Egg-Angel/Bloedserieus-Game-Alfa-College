@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: 3fa155b97b46c174e9fc0d6b4072c156
+guid: 61737d7a0f2d49648a0be42b86957cd1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 384519757777638246
-    second: schaamtemeter met nikki_0
-  - first:
-      213: -7106669903900438204
-    second: schaamtemeter met nikki_1
-  - first:
-      213: -917581884760929765
-    second: schaamtemeter met nikki_2
-  - first:
-      213: 8290484440075010855
-    second: schaamtemeter met nikki_3
+      213: 8300974739897075016
+    second: Dialogue icon_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -60,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -109,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: schaamtemeter met nikki_0
+      name: Dialogue icon_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1
-        width: 20
-        height: 79
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,30 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6639473bea6165500800000000000000
-      internalID: 384519757777638246
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: schaamtemeter met nikki_1
-      rect:
-        serializedVersion: 2
-        x: 20
-        y: 1
-        width: 20
-        height: 79
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4411e0a0069006d90800000000000000
-      internalID: -7106669903900438204
+      spriteID: 8454e05ab8cf23370800000000000000
+      internalID: 8300974739897075016
       vertices: []
       indices: 
       edges: []
@@ -156,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 494e5626cad112e4d93b935a0faff4a4
+    spriteID: d44a5e0ffb6e92c4db572741572bbaec
     internalID: 0
     vertices: []
     indices: 
@@ -166,8 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      schaamtemeter met nikki_0: 384519757777638246
-      schaamtemeter met nikki_1: -7106669903900438204
+      Dialogue icon_0: 8300974739897075016
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
