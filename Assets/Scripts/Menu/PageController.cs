@@ -7,7 +7,7 @@ public class PageController : MonoBehaviour
     {
         if (gameObject.activeSelf == true)
         {
-            if (Input.GetKeyDown(KeyCode.Escape))
+            if (Input.GetKeyDown(KeyCode.Tab))
             {
                 gameObject.SetActive(false);
             }

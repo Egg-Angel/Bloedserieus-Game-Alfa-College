@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.2D.Animation.Runtime::UnityEngine.U2D.Animation.SpriteLibrarySourceAsset
+  m_Library:
+  - m_Name: Idle
+    m_Hash: 1008081451
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: favorite_teacher_sprite_sheet_0
+      m_Hash: 24133852
+      m_Sprite: {fileID: -8475368416072022203, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -8475368416072022203, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+    - m_Name: favorite_teacher_sprite_sheet_4
+      m_Hash: 102597829
+      m_Sprite: {fileID: 3467668328653462018, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 3467668328653462018, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+    - m_Name: favorite_teacher_sprite_sheet_8
+      m_Hash: 262916334
+      m_Sprite: {fileID: 1702703533594511651, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1702703533594511651, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+    - m_Name: favorite_teacher_sprite_sheet_12
+      m_Hash: 216687091
+      m_Sprite: {fileID: -5339367363288114533, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5339367363288114533, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 4
+  - m_Name: Walk
+    m_Hash: 765711723
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: favorite_teacher_sprite_sheet_0
+      m_Hash: 24133852
+      m_Sprite: {fileID: -8475368416072022203, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -8475368416072022203, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+    - m_Name: favorite_teacher_sprite_sheet_2
+      m_Hash: 796795376
+      m_Sprite: {fileID: 1452677485630650453, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1452677485630650453, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+    - m_Name: favorite_teacher_sprite_sheet_3
+      m_Hash: 410587494
+      m_Sprite: {fileID: -8779507570783699100, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -8779507570783699100, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+    - m_Name: favorite_teacher_sprite_sheet_4
+      m_Hash: 102597829
+      m_Sprite: {fileID: 3467668328653462018, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 3467668328653462018, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+    - m_Name: favorite_teacher_sprite_sheet_6
+      m_Hash: 672392681
+      m_Sprite: {fileID: 881025110741469043, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 881025110741469043, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+    - m_Name: favorite_teacher_sprite_sheet_7
+      m_Hash: 521459071
+      m_Sprite: {fileID: -5737930330943312314, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5737930330943312314, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+    - m_Name: favorite_teacher_sprite_sheet_8
+      m_Hash: 262916334
+      m_Sprite: {fileID: 1702703533594511651, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1702703533594511651, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+    - m_Name: favorite_teacher_sprite_sheet_10
+      m_Hash: 585367775
+      m_Sprite: {fileID: 83169829148517166, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 83169829148517166, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+    - m_Name: favorite_teacher_sprite_sheet_11
+      m_Hash: 367210569
+      m_Sprite: {fileID: 4985310245876108243, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 4985310245876108243, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+    - m_Name: favorite_teacher_sprite_sheet_12
+      m_Hash: 216687091
+      m_Sprite: {fileID: -5339367363288114533, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5339367363288114533, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+    - m_Name: favorite_teacher_sprite_sheet_13
+      m_Hash: 1005408613
+      m_Sprite: {fileID: 9025610858405250378, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 9025610858405250378, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+    - m_Name: favorite_teacher_sprite_sheet_14
+      m_Hash: 629785798
+      m_Sprite: {fileID: 7825243708555916741, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7825243708555916741, guid: a5ee2f9d0e3622741baa9a830e07cb1f, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 12
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 639083947475586540
+  m_Version: 1
