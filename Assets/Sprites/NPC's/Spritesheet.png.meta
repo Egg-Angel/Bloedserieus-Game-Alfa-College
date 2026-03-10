@@ -1,52 +1,52 @@
 fileFormatVersion: 2
-guid: 7989d7f4279b3d64e8469a4b6c8ae9a7
+guid: a5ee2f9d0e3622741baa9a830e07cb1f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5543465623613441340
-    second: nikki_remake_sprite_sheet_0
+      213: -8475368416072022203
+    second: favorite_teacher_sprite_sheet_0
   - first:
-      213: 7860572072632052813
-    second: nikki_remake_sprite_sheet_1
+      213: 344361773104711797
+    second: favorite_teacher_sprite_sheet_1
   - first:
-      213: 2013328134675753567
-    second: nikki_remake_sprite_sheet_2
+      213: 1452677485630650453
+    second: favorite_teacher_sprite_sheet_2
   - first:
-      213: 6351756378327965024
-    second: nikki_remake_sprite_sheet_3
+      213: -8779507570783699100
+    second: favorite_teacher_sprite_sheet_3
   - first:
-      213: -8247799286684827312
-    second: nikki_remake_sprite_sheet_4
+      213: 3467668328653462018
+    second: favorite_teacher_sprite_sheet_4
   - first:
-      213: 2611282451081075761
-    second: nikki_remake_sprite_sheet_5
+      213: -1492537679255236802
+    second: favorite_teacher_sprite_sheet_5
   - first:
-      213: 8375218191750405061
-    second: nikki_remake_sprite_sheet_6
+      213: 881025110741469043
+    second: favorite_teacher_sprite_sheet_6
   - first:
-      213: 4115064405794750923
-    second: nikki_remake_sprite_sheet_7
+      213: -5737930330943312314
+    second: favorite_teacher_sprite_sheet_7
   - first:
-      213: -1032000354743371807
-    second: nikki_remake_sprite_sheet_8
+      213: 1702703533594511651
+    second: favorite_teacher_sprite_sheet_8
   - first:
-      213: -1013336016977833333
-    second: nikki_remake_sprite_sheet_9
+      213: -632548694770547235
+    second: favorite_teacher_sprite_sheet_9
   - first:
-      213: 7558079353682105866
-    second: nikki_remake_sprite_sheet_10
+      213: 83169829148517166
+    second: favorite_teacher_sprite_sheet_10
   - first:
-      213: -386439714918985993
-    second: nikki_remake_sprite_sheet_11
+      213: 4985310245876108243
+    second: favorite_teacher_sprite_sheet_11
   - first:
-      213: 5879024152651215577
-    second: nikki_remake_sprite_sheet_12
+      213: -5339367363288114533
+    second: favorite_teacher_sprite_sheet_12
   - first:
-      213: -1601894026048657631
-    second: nikki_remake_sprite_sheet_13
+      213: 9025610858405250378
+    second: favorite_teacher_sprite_sheet_13
   - first:
-      213: -5907137603650552108
-    second: nikki_remake_sprite_sheet_14
+      213: 7825243708555916741
+    second: favorite_teacher_sprite_sheet_14
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -93,7 +93,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -142,331 +142,331 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: nikki_remake_sprite_sheet_0
+      name: Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b1c2592ffdc314ea6c93a277d9ffd3
+      internalID: 461269710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df049926f80084459ee26b758417f81
+      internalID: -852048841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d67badad3ccce74d957ebc2517d8d8a
+      internalID: 288726924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd13a08ede127e944828a9b1e12c9fcf
+      internalID: 2060973483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_4
       rect:
         serializedVersion: 2
         x: 0
         y: 96
-        width: 32
-        height: 32
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c3581183d985eec40800000000000000
-      internalID: 5543465623613441340
+      spriteID: e5f5a55b09cdbf041b783c2f21318acf
+      internalID: 112302001
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nikki_remake_sprite_sheet_1
+      name: Spritesheet_5
       rect:
         serializedVersion: 2
-        x: 32
+        x: 48
         y: 96
-        width: 32
-        height: 32
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d4ce69827ac561d60800000000000000
-      internalID: 7860572072632052813
+      spriteID: 0604e50c054058f418babd2340dc9174
+      internalID: -1292078279
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nikki_remake_sprite_sheet_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 96
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f5ae5ab7547c0fb10800000000000000
-      internalID: 2013328134675753567
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nikki_remake_sprite_sheet_3
+      name: Spritesheet_6
       rect:
         serializedVersion: 2
         x: 96
         y: 96
-        width: 32
-        height: 32
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 06d5f06e5c8f52850800000000000000
-      internalID: 6351756378327965024
+      spriteID: 1c7a4736f75823747b531efbec28f323
+      internalID: 594938199
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nikki_remake_sprite_sheet_4
+      name: Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea4c35d5a020b746b73fabceb0e5f14
+      internalID: -925770355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_8
       rect:
         serializedVersion: 2
         x: 0
-        y: 64
-        width: 32
-        height: 32
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0514e6a5f3ee98d80800000000000000
-      internalID: -8247799286684827312
+      spriteID: 588e4596d478875438f42625cc4eedf4
+      internalID: -714918689
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nikki_remake_sprite_sheet_5
+      name: Spritesheet_9
       rect:
         serializedVersion: 2
-        x: 32
-        y: 64
-        width: 32
-        height: 32
+        x: 48
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 13c16e8dd832d3420800000000000000
-      internalID: 2611282451081075761
+      spriteID: adec661ca9f5cc849a2d95d7e3051cb6
+      internalID: -521988109
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nikki_remake_sprite_sheet_6
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5cb1ca35290ca3470800000000000000
-      internalID: 8375218191750405061
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nikki_remake_sprite_sheet_7
+      name: Spritesheet_10
       rect:
         serializedVersion: 2
         x: 96
-        y: 64
-        width: 32
-        height: 32
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bc100474645ab1930800000000000000
-      internalID: 4115064405794750923
+      spriteID: bc4a159f7a5d70a41ab7c412a5b410ca
+      internalID: -1589501169
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nikki_remake_sprite_sheet_8
+      name: Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9561309ee4e17554bac5835be0a56be9
+      internalID: 253504922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_12
       rect:
         serializedVersion: 2
         x: 0
-        y: 32
-        width: 32
-        height: 32
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1e7b17725299da1f0800000000000000
-      internalID: -1032000354743371807
+      spriteID: e335333813e0a8041b62224953228b79
+      internalID: -747520921
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nikki_remake_sprite_sheet_9
+      name: Spritesheet_13
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
-        width: 32
-        height: 32
+        x: 48
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b825dede248efe1f0800000000000000
-      internalID: -1013336016977833333
+      spriteID: 2db49716a120cb14a82e23843d90bd88
+      internalID: 1070371041
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nikki_remake_sprite_sheet_10
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a069f64b021b3e860800000000000000
-      internalID: 7558079353682105866
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nikki_remake_sprite_sheet_11
+      name: Spritesheet_14
       rect:
         serializedVersion: 2
         x: 96
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7fe8621702713aaf0800000000000000
-      internalID: -386439714918985993
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nikki_remake_sprite_sheet_12
-      rect:
-        serializedVersion: 2
-        x: 0
         y: 0
-        width: 32
-        height: 32
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9d2b7b4815d769150800000000000000
-      internalID: 5879024152651215577
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nikki_remake_sprite_sheet_13
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 127ac89dedde4c9e0800000000000000
-      internalID: -1601894026048657631
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: nikki_remake_sprite_sheet_14
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4de7e0795a1a50ea0800000000000000
-      internalID: -5907137603650552108
+      spriteID: 8908202ce145ae1489a39b61fb17448e
+      internalID: 1312932545
       vertices: []
       indices: 
       edges: []
@@ -475,7 +475,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 1cfd7abc259e7af4ab80392effbb429d
+    spriteID: 866f9ec34c681f84ca2e0a9871a1d728
     internalID: 0
     vertices: []
     indices: 
@@ -485,23 +485,23 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":48.0,"y":48.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      nikki_remake_sprite_sheet_0: 5543465623613441340
-      nikki_remake_sprite_sheet_1: 7860572072632052813
-      nikki_remake_sprite_sheet_10: 7558079353682105866
-      nikki_remake_sprite_sheet_11: -386439714918985993
-      nikki_remake_sprite_sheet_12: 5879024152651215577
-      nikki_remake_sprite_sheet_13: -1601894026048657631
-      nikki_remake_sprite_sheet_14: -5907137603650552108
-      nikki_remake_sprite_sheet_2: 2013328134675753567
-      nikki_remake_sprite_sheet_3: 6351756378327965024
-      nikki_remake_sprite_sheet_4: -8247799286684827312
-      nikki_remake_sprite_sheet_5: 2611282451081075761
-      nikki_remake_sprite_sheet_6: 8375218191750405061
-      nikki_remake_sprite_sheet_7: 4115064405794750923
-      nikki_remake_sprite_sheet_8: -1032000354743371807
-      nikki_remake_sprite_sheet_9: -1013336016977833333
+      Spritesheet_0: 461269710
+      Spritesheet_1: -852048841
+      Spritesheet_10: -1589501169
+      Spritesheet_11: 253504922
+      Spritesheet_12: -747520921
+      Spritesheet_13: 1070371041
+      Spritesheet_14: 1312932545
+      Spritesheet_2: 288726924
+      Spritesheet_3: 2060973483
+      Spritesheet_4: 112302001
+      Spritesheet_5: -1292078279
+      Spritesheet_6: 594938199
+      Spritesheet_7: -925770355
+      Spritesheet_8: -714918689
+      Spritesheet_9: -521988109
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
