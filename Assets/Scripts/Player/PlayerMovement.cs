@@ -17,17 +17,28 @@ public class PlayerMovement : MonoBehaviour
         animator = GetComponent<Animator>();
     }
 
-    void FixedUpdate()
+    void Update()
     {
+        if (PauseController.IsGamePaused)
+        {
+            rb.linearVelocity = Vector2.zero;
+            animator.SetBool("isWalking", false);
+            GetComponent<Animator>().enabled = false;
+            return;
+        }
+        if (PauseController.IsGamePaused == false)
+        {
+            GetComponent<Animator>().enabled = true;
+        }
+
         rb.linearVelocity = moveInput * moveSpeed;
+        animator.SetBool("isWalking", rb.linearVelocity.magnitude > 0);
     }
 
 
 
     public void Move(InputAction.CallbackContext context)
     {
-        animator.SetBool("isWalking", true);
-
         if (context.canceled)
         {
             animator.SetBool("isWalking", false);
