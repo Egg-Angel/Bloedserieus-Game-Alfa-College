@@ -18,10 +18,4 @@ public class DisableButton : MonoBehaviour
         }
     }
 
-    //public void Disabled()
-    //{
-    //    Debug.Log("WORK YOU LITTLE SHIT");
-    //    //InfoButton.interactable = false;
-    //}
-
 }

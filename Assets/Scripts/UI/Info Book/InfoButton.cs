@@ -9,12 +9,10 @@ public class InfoButton : MonoBehaviour
         if (InfoBook.activeSelf == false)
         {
             InfoBook.SetActive(true);
-            PauseController.SetPause(true);
         }
         else
         {
             InfoBook.SetActive(false);
-            PauseController.SetPause(false);
         }
         
     }
