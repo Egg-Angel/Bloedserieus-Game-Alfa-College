@@ -74,6 +74,6 @@ public class PlayerMovement : MonoBehaviour
 
     void PlayFootstep()
     {
-        SoundEffectManager.Play("Footsteps");
+        SoundEffectManager.Play("Footsteps", true);
     }
 }
