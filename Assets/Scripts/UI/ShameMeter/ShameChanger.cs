@@ -58,7 +58,6 @@ public class ShameChanger : MonoBehaviour
 
     public void ShameIncrease()
     {
-        Debug.Log("this also works");
         ShameScore++;
     }
 }
