@@ -31,6 +31,12 @@ public class DialogueUI : MonoBehaviour
         {
             string dialogue = dialogueObject.Dialogue[i];
             yield return typewriterEffect.Run(dialogue, textLabel);
+
+            if (i == dialogueObject.Dialogue.Length - 1 && dialogueObject.HasResponses) break;
+            {
+                
+            }
+
             yield return new WaitUntil(() => Input.GetKeyDown(KeyCode.E));
         }
 
