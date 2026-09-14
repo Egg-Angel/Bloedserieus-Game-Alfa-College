@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 41926f90e02a75b4c865ecc0a119ea7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5120224674601135964
+    second: hallway_0
+  - first:
+      213: -6901720156904130405
+    second: hallway_1
+  - first:
+      213: 7656789949409069260
+    second: hallway_2
+  - first:
+      213: -7832674082667791370
+    second: hallway_3
+  - first:
+      213: 1676496118620543786
+    second: hallway_4
+  - first:
+      213: 8574750070535014092
+    second: hallway_5
+  - first:
+      213: 8232301896637949153
+    second: hallway_6
+  - first:
+      213: -1134009764661530248
+    second: hallway_7
+  - first:
+      213: 2193823222185251375
+    second: hallway_8
+  - first:
+      213: 1033183066753081542
+    second: hallway_9
+  - first:
+      213: -8745175114125918246
+    second: hallway_10
+  - first:
+      213: 4775881930877033759
+    second: hallway_11
+  - first:
+      213: -4391853254507448292
+    second: hallway_12
+  - first:
+      213: -509981539978770415
+    second: hallway_13
+  - first:
+      213: 4499298979295087385
+    second: hallway_14
+  - first:
+      213: 6377208792044088675
+    second: hallway_15
+  - first:
+      213: 2027833547724346733
+    second: hallway_16
+  - first:
+      213: 1576996233816723895
+    second: hallway_17
+  - first:
+      213: 8224293250005397028
+    second: hallway_18
+  - first:
+      213: 7047930177598828062
+    second: hallway_19
+  - first:
+      213: -5273565874831535889
+    second: hallway_20
+  - first:
+      213: 259219260450855185
+    second: hallway_21
+  - first:
+      213: -7248932260130615465
+    second: hallway_22
+  - first:
+      213: 3235729437022124409
+    second: hallway_23
+  - first:
+      213: 8328400435447467865
+    second: hallway_24
+  - first:
+      213: 9005273696128070905
+    second: hallway_25
+  - first:
+      213: -617122878207839912
+    second: hallway_26
+  - first:
+      213: -4315914676344486704
+    second: hallway_27
+  - first:
+      213: 1145826288719520166
+    second: hallway_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hallway_0
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1707
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f6ac3a631be0740800000000000000
+      internalID: 5120224674601135964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_1
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1725
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98739c851a2830a0800000000000000
+      internalID: -6901720156904130405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_2
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1734
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc80f4e34e1624a60800000000000000
+      internalID: 7656789949409069260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_3
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1739
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb7d2dcb60cc4390800000000000000
+      internalID: -7832674082667791370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_4
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1674
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bd2b1665c144710800000000000000
+      internalID: 1676496118620543786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_5
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1671
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6cef712c1aff670800000000000000
+      internalID: 8574750070535014092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_6
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1680
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e421e855f20f3270800000000000000
+      internalID: 8232301896637949153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_7
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 1676
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871768590203340f0800000000000000
+      internalID: -1134009764661530248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_8
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 1676
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22da52e896027e10800000000000000
+      internalID: 2193823222185251375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_9
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1673
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c024c1768a965e00800000000000000
+      internalID: 1033183066753081542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_10
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1708
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf30ff4195e2a680800000000000000
+      internalID: -8745175114125918246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_11
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1675
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dd12bff47574240800000000000000
+      internalID: 4775881930877033759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_12
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1675
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18b07bebb00d03c0800000000000000
+      internalID: -4391853254507448292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_13
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1671
+        width: 68
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1180f8bcd7e2ce8f0800000000000000
+      internalID: -509981539978770415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_14
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1670
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b49275598b07e30800000000000000
+      internalID: 4499298979295087385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_15
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1675
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d2944cb95608850800000000000000
+      internalID: 6377208792044088675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_16
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1675
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65dab32edf442c10800000000000000
+      internalID: 2027833547724346733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_17
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1675
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b156c828bd92e510800000000000000
+      internalID: 1576996233816723895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_18
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1673
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ee63ff22f822270800000000000000
+      internalID: 8224293250005397028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_19
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1676
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ea88da7274fc160800000000000000
+      internalID: 7047930177598828062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_20
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1675
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe05b0307c780d6b0800000000000000
+      internalID: -5273565874831535889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_21
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1679
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119dc124b8ee89300800000000000000
+      internalID: 259219260450855185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_22
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f8b02148e966b90800000000000000
+      internalID: -7248932260130615465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_23
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1670
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9797af287ce97ec20800000000000000
+      internalID: 3235729437022124409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_24
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1673
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f0e0ef11c649370800000000000000
+      internalID: 8328400435447467865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_25
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 556
+        width: 3012
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4f1e2f6b829fc70800000000000000
+      internalID: 9005273696128070905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_26
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 1390
+        width: 150
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851b7ad030a8f67f0800000000000000
+      internalID: -617122878207839912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_27
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 728
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d48793f77aca14c0800000000000000
+      internalID: -4315914676344486704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hallway_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 731
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a16e6150fac6ef00800000000000000
+      internalID: 1145826288719520166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hallway_0: 5120224674601135964
+      hallway_1: -6901720156904130405
+      hallway_10: -8745175114125918246
+      hallway_11: 4775881930877033759
+      hallway_12: -4391853254507448292
+      hallway_13: -509981539978770415
+      hallway_14: 4499298979295087385
+      hallway_15: 6377208792044088675
+      hallway_16: 2027833547724346733
+      hallway_17: 1576996233816723895
+      hallway_18: 8224293250005397028
+      hallway_19: 7047930177598828062
+      hallway_2: 7656789949409069260
+      hallway_20: -5273565874831535889
+      hallway_21: 259219260450855185
+      hallway_22: -7248932260130615465
+      hallway_23: 3235729437022124409
+      hallway_24: 8328400435447467865
+      hallway_25: 9005273696128070905
+      hallway_26: -617122878207839912
+      hallway_27: -4315914676344486704
+      hallway_28: 1145826288719520166
+      hallway_3: -7832674082667791370
+      hallway_4: 1676496118620543786
+      hallway_5: 8574750070535014092
+      hallway_6: 8232301896637949153
+      hallway_7: -1134009764661530248
+      hallway_8: 2193823222185251375
+      hallway_9: 1033183066753081542
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

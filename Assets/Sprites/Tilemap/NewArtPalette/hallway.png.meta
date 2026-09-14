@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: e8be7ed2d35df3d4fb82fe7c78677f03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5120224674601135964
+    second: hallway_0
+  - first:
+      213: -6901720156904130405
+    second: hallway_1
+  - first:
+      213: 7656789949409069260
+    second: hallway_2
+  - first:
+      213: -7832674082667791370
+    second: hallway_3
+  - first:
+      213: 1676496118620543786
+    second: hallway_4
+  - first:
+      213: 8574750070535014092
+    second: hallway_5
+  - first:
+      213: 8232301896637949153
+    second: hallway_6
+  - first:
+      213: -1134009764661530248
+    second: hallway_7
+  - first:
+      213: 2193823222185251375
+    second: hallway_8
+  - first:
+      213: 1033183066753081542
+    second: hallway_9
+  - first:
+      213: -8745175114125918246
+    second: hallway_10
+  - first:
+      213: 4775881930877033759
+    second: hallway_11
+  - first:
+      213: -4391853254507448292
+    second: hallway_12
+  - first:
+      213: -509981539978770415
+    second: hallway_13
+  - first:
+      213: 4499298979295087385
+    second: hallway_14
+  - first:
+      213: 6377208792044088675
+    second: hallway_15
+  - first:
+      213: 2027833547724346733
+    second: hallway_16
+  - first:
+      213: 1576996233816723895
+    second: hallway_17
+  - first:
+      213: 8224293250005397028
+    second: hallway_18
+  - first:
+      213: 7047930177598828062
+    second: hallway_19
+  - first:
+      213: -5273565874831535889
+    second: hallway_20
+  - first:
+      213: 259219260450855185
+    second: hallway_21
+  - first:
+      213: -7248932260130615465
+    second: hallway_22
+  - first:
+      213: 3235729437022124409
+    second: hallway_23
+  - first:
+      213: 8328400435447467865
+    second: hallway_24
+  - first:
+      213: 9005273696128070905
+    second: hallway_25
+  - first:
+      213: -617122878207839912
+    second: hallway_26
+  - first:
+      213: -4315914676344486704
+    second: hallway_27
+  - first:
+      213: 1145826288719520166
+    second: hallway_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hallway_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3508
+        height: 2480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f6ac3a631be0740800000000000000
+      internalID: 5120224674601135964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9f8f5d55c49a89d40b613c629eb12bac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":3508.0,"y":2480.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      hallway_0: 5120224674601135964
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
