@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
+//This is the player movement script.
 public class PlayerMovement : MonoBehaviour
 {
     public static bool IsTalking;
