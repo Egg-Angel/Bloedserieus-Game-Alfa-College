@@ -6,5 +6,6 @@ public class RemoveMinigame : MonoBehaviour
     public void Remove()
     {
         Destroy(SetForRemoval);
+        PauseController.SetPause(false);
     }
 }

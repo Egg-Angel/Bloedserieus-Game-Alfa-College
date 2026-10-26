@@ -25,6 +25,7 @@ public class MaandverbandGame : MonoBehaviour, IInteractable
         else
         {
             StartMaandverbandGame();
+            PauseController.SetPause(true);
 
         }
     }

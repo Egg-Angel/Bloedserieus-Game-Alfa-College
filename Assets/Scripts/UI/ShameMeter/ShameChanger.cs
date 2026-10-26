@@ -13,7 +13,7 @@ public class ShameChanger : MonoBehaviour
 
     void Update()
     {
-        Debug.Log(ShameScore);
+
         if (ShameScore == 1)
         {
             LowShame.SetActive(true);

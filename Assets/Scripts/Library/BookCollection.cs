@@ -2,21 +2,37 @@ using UnityEngine;
 
 public class BookCollection : MonoBehaviour, IInteractable
 {
-    [SerializeField] BookCount Counting;
+    private BookshelfController BookshelfGameUI;
+
+    private bool isBookshelfActive;
+
+    void Start()
+    {
+        BookshelfGameUI = BookshelfController.instance;
+    }
 
     public bool CanInteract()
     {
-        return true;
+        return !isBookshelfActive;
     }
 
     public void Interact()
     {
-
-        if (Counting != null)
+        if (PauseController.IsGamePaused && !isBookshelfActive)
         {
-            Counting.PlusBook();
+            return;
+        }
+        else
+        {
+            StartBookshelfGame();
+            PauseController.SetPause(true);
+
         }
 
-        Destroy(gameObject);
+    }
+
+    void StartBookshelfGame()
+    {
+        BookshelfGameUI.ShowBookshelfGameUI(true);
     }
 }
