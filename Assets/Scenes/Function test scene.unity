@@ -15560,7 +15560,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5018d4ea3d6cdeb4184b66f3d5af047e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TypewriterEffect
-  typewriterSpeed: 40
 --- !u!114 &1440726266
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15573,9 +15572,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44aa1265bcf85da45a73d23eb60c8540, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialogueUI
-  dialogueBox: {fileID: 1033698541}
-  textLabel: {fileID: 1095408609}
-  testdialogue: {fileID: 11400000, guid: afa0f058a32953a419180ef255e1ed40, type: 2}
 --- !u!114 &1440726267
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15651,9 +15647,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5450f6c375fc32a4f823e00456a56234, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ResponseHandler
-  responseBox: {fileID: 2002884546}
-  responseButtonTemplate: {fileID: 412040584}
-  responseContainer: {fileID: 1081081516}
 --- !u!1 &1442730969
 GameObject:
   m_ObjectHideFlags: 0
@@ -27977,7 +27970,7 @@ PrefabInstance:
     - target: {fileID: 1503054344703070416, guid: c33428e20146d3b41b6629094e703278, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -667315555, guid: 7989d7f4279b3d64e8469a4b6c8ae9a7, type: 3}
+      objectReference: {fileID: 463675161190877676, guid: 6f44b202cc5da854ba8da5c59cfbf40f, type: 3}
     - target: {fileID: 1503054344703070416, guid: c33428e20146d3b41b6629094e703278, type: 3}
       propertyPath: m_SortingLayer
       value: 4
@@ -28010,6 +28003,14 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 0ee453f0139e72f4e9b4097ac6440977, type: 2}
+    - target: {fileID: 6710438572830875355, guid: c33428e20146d3b41b6629094e703278, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6710438572830875355, guid: c33428e20146d3b41b6629094e703278, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6710438572830875355, guid: c33428e20146d3b41b6629094e703278, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.1
@@ -28101,7 +28102,7 @@ MonoBehaviour:
   m_CategoryHash: 0.009161512
   m_labelHash: 8.469624e-31
   m_SpriteKey: 0
-  m_SpriteHash: 968894142
+  m_SpriteHash: 0
 --- !u!114 &1667358987978525045
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28115,7 +28116,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Unity.2D.Animation.Runtime::UnityEngine.U2D.Animation.SpriteLibrary
   m_Library: []
-  m_SpriteLibraryAsset: {fileID: 7108339969198208228, guid: 8b404c0af22be1840b411ccd0fb0028e, type: 3}
+  m_SpriteLibraryAsset: {fileID: 7108339969198208228, guid: fa2fb5626ffb3fe45beb6914fa1606cd, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

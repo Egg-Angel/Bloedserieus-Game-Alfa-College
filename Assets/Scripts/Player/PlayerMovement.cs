@@ -5,8 +5,10 @@ using UnityEngine.InputSystem;
 public class PlayerMovement : MonoBehaviour
 {
     public static bool IsTalking;
+    bool facingRight = true;
 
     [SerializeField] private float moveSpeed = 5f;
+    float inputHorizontal;
     private Rigidbody2D rb;
     private Vector2 moveInput;
     private Animator animator;
@@ -46,6 +48,17 @@ public class PlayerMovement : MonoBehaviour
         {
             stopFootsteps();
         }
+
+        inputHorizontal = Input.GetAxisRaw("Horizontal");
+
+        if (inputHorizontal > 0 && !facingRight)
+        {
+            Flip();
+        }
+        if (inputHorizontal  < 0 && facingRight)
+        {
+            Flip();
+        }
     }
 
     public void Move(InputAction.CallbackContext context)
@@ -76,5 +89,14 @@ public class PlayerMovement : MonoBehaviour
     void PlayFootstep()
     {
         SoundEffectManager.Play("Footsteps", true);
+    }
+
+    void Flip()
+    {
+        Vector3 currentScale = gameObject.transform.localScale;
+        currentScale.x *= -1;
+        gameObject.transform.localScale = currentScale;
+
+        facingRight = !facingRight;
     }
 }
