@@ -1,4 +1,3 @@
-using Microsoft.Unity.VisualStudio.Editor;
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
@@ -18,9 +17,9 @@ public class DialogueManager : MonoBehaviour
     public bool isDialogueActive = false;
     public float typingSpeed = 0.2f;
 
-    public Transform choiceContainer;
-    public GameObject choiceButtonPrefab;
     public GameObject dialoguePanel;
+
+
     void Start()
     {
         if (Instance == null)
@@ -77,22 +76,7 @@ public class DialogueManager : MonoBehaviour
     {
         isDialogueActive = false;
         ShowDialogueUI(false);
-    }
-
-    public void ClearChoices()
-    {
-        foreach (Transform child in choiceContainer)
-        {
-            Destroy(child.gameObject);
-        }
-    }
-
-    public GameObject CreateChoiceButton(string choiceText, UnityEngine.Events.UnityAction onClick)
-    {
-        GameObject choiceButton = Instantiate(choiceButtonPrefab, choiceContainer);
-        choiceButton.GetComponentInChildren<TMP_Text>().text = choiceText;
-        choiceButton.GetComponent<Button>().onClick.AddListener(onClick);
-        return choiceButton;
+        PauseController.SetPause(false);
     }
 
     public void ShowDialogueUI(bool show)

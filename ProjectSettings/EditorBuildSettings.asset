@@ -8,10 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Cutscene.unity
     guid: dc86048174828f94cbe7920588787b29
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/School interior.unity
     guid: def4e04220bb30b49a078e8903a0c35b
   - enabled: 1
